@@ -4,7 +4,7 @@ import Image from "next/image";
 
 export const PotDisplay = () => {
   return (
-    <div className="flex w-dvw bg-gray-300">
+    <div className="flex w-dvw bg-gray-300 items-center justify-start py-2">
       <div>
         <Image src={potIcon} width={50} height={50} alt="Avatar" unoptimized />
       </div>
