@@ -1,5 +1,5 @@
 import React from "react";
-import potIcon from "/public/images/icon-pot.svg";
+import potIcon from "/assets/images/icon-pot.svg";
 import Image from "next/image";
 
 export const PotDisplay = () => {

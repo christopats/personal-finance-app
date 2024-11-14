@@ -1,6 +1,6 @@
 import React from "react";
 import Image from "next/image";
-import transactionAvatar from "/public/avatars/yuna-kim.jpg";
+import transactionAvatar from "/assets/images/avatars/yuna-kim.jpg";
 
 const TransactionDisplay = () => {
   return (
